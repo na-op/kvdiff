@@ -1,0 +1,8 @@
+[package]
+name = "kvdiff"
+version = "0.1.0"
+edition = "2021"
+authors = ["na-op <357236237+na-op@users.noreply.github.com>"]
+description = "Fast zero-dependency key-value and .env configuration diff utility"
+license = "MIT"
+repository = "https://github.com/na-op/kvdiff"
